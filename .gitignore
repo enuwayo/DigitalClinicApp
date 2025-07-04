@@ -1,0 +1,4 @@
+# Ignore Streamlit secrets
+/.streamlit
+/avocado/.streamlit
+/Education/.streamlit
